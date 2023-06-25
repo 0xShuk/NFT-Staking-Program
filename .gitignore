@@ -1,0 +1,16 @@
+create-reward-script/node_modules
+create-reward-script/wallet.json
+
+nft-stake-auth/.anchor
+nft-stake-auth/.DS_Store
+nft-stake-auth/target
+nft-stake-auth/**/*.rs.bk
+nft-stake-auth/node_modules
+nft-stake-auth/test-ledger
+
+nft-stake-vault/.anchor
+nft-stake-vault/.DS_Store
+nft-stake-vault/target
+nft-stake-vault/**/*.rs.bk
+nft-stake-vault/node_modules
+nft-stake-vault/test-ledger
