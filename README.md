@@ -1,6 +1,6 @@
 # NFT Staking Program
 NFT Staking Program on Solana written in Anchor Framework.
-The complete guide on this program can be found in this medium article: 
+The complete guide on this program can be found in this medium article: https://link.medium.com/VqeQNXml5Ab
 
 ## Model 1: NFT Staking without Vault (Auth Model)
 ![stake-3](https://github.com/0xShuk/NFT-Staking-Program/assets/83659045/d528fab4-a0e5-47b3-9f9d-6cc5a5ee11c1)
